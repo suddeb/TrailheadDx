@@ -1,0 +1,4 @@
+.sfdx/tools/sobjects/
+.sfdx/typings/
+.vim-force.com/
+.sfdx/orgs/
