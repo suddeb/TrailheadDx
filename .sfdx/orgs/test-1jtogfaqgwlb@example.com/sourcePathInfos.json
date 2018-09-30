@@ -32,44 +32,42 @@
     [
         "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1538276872085,
             "changeTime": 1538276872085,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
+            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1538274552054,
-            "changeTime": 1538274552054,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 96,
+            "modifiedTime": 1538277636824,
+            "changeTime": 1538277636824,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
         }
     ],
     [
         "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation",
         {
+            "state": "u",
             "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation",
             "isDirectory": true,
-            "size": 288,
-            "modifiedTime": 1538274593761,
-            "changeTime": 1538274593761,
-            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 416,
+            "modifiedTime": 1538277469766,
+            "changeTime": 1538277469766,
             "isWorkspace": true,
-            "isArtifactRoot": false
+            "contentHash": "b7de585f3f28d8a0c1ff753b7b095ec8d3ff6b36"
         }
     ],
     [
@@ -218,40 +216,170 @@
     [
         "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1538276888545,
             "changeTime": 1538276888545,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/classes/AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 349,
             "modifiedTime": 1538277177170,
             "changeTime": 1538277177170,
-            "contentHash": "9d77ca3001101acef0935ea1a676f6adbb760099"
+            "contentHash": "9d77ca3001101acef0935ea1a676f6adbb760099",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1538276888545,
             "changeTime": 1538276888545,
-            "contentHash": "02c1ba89ec2301879da4df59a69dc5111c8837d6"
+            "contentHash": "02c1ba89ec2301879da4df59a69dc5111c8837d6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1538277636828,
+            "changeTime": 1538277636828,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1538277636828,
+            "changeTime": 1538277636828,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 156,
+            "modifiedTime": 1538277655748,
+            "changeTime": 1538277655748,
+            "contentHash": "f3f590857881ca3c0ed746a2c23effadffed7691"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1538277636825,
+            "changeTime": 1538277636825,
+            "contentHash": "83ff4d0b87ed5f90f60645958ed6ed7348c82a24"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 116,
+            "modifiedTime": 1538277667848,
+            "changeTime": 1538277667848,
+            "contentHash": "3ca8e9ca2d1a1548016b626756b3bc414bddf463"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1538277636828,
+            "changeTime": 1538277636828,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1538277636827,
+            "changeTime": 1538277636827,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1538277636826,
+            "changeTime": 1538277636826,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1538277636826,
+            "changeTime": 1538277636826,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sudiptadeb/Documents/Sudipta Deb/Salesforce/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1538277636827,
+            "changeTime": 1538277636827,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
